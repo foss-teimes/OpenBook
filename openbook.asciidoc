@@ -62,6 +62,26 @@ include::PartB-Mysql.asciidoc[]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartB-Scilab.asciidoc[]
 
+[[Umbrello]]
+Γλώσσες Μοντελοποίησης Λογισμίκου - Umbrello
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include::PartB-Umbrello.asciidoc[]
+
+[[PapyrusUML]]
+Γλώσσες Μοντελοποίησης Λογισμίκου - PapyrusUML
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include::PartB-PapyrusUML.asciidoc[]
+
+[[Bluefish]]
+Προγραμματισμός - Bluefish
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+include::PartB-Bluefish.asciidoc[]
+
+[[Nmap]]
+Aσφάλεια και Διαχείριση - Nmap
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include::PartB-Nmap.asciidoc[]
+
 [[Octave]]
 Μαθηματικά Εργαλεία - Octave
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -132,6 +152,10 @@ include::PartC-VHDL.asciidoc[]
 Τμήμα Πληροφορικής Ο.Π.Α.
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartD-Lessons-AUEB.asciidoc[]
+
+Τμήμα Τηλεποικινωνιακών Συστηματων και Δυκτίων ΤΕΙ Μεσσολογίου Παραρτημα Ναυπάκτου
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include::PartD-Lessons-TEIMESS-TESYD.asciidoc[]
 
 Ε.Μ.Π.
 ~~~~~~
