@@ -1,16 +1,16 @@
-Το http://www.papyrusuml.org[Papyrus] είναι μια γραφική εφαρμογή βασισμενη στο Eclipse
-και μπορει να τρεξει μονη της ή σαν plugin στο Eclipse για την δημιουργεία σχεδιαγραμάτων
-για την γλωσσα UML2 *Unified Modeling Language* αλλα παρεχει και υποστηριξη 
+Το http://www.papyrusuml.org[Papyrus] είναι μια γραφική εφαρμογή βασισμένη στο Eclipse
+και μπορεί να τρέξει μόνη της ή σαν plugin στο Eclipse για την δημιουργία σχεδιαγραμμάτων
+για την γλώσσα UML *Unified Modeling Language* αλλά παρέχει και υποστήριξη 
 για Domain Specific Languages και SysML.
 
-Το Papyrus 1.12.3 σαν Standalone μπορει να βρεθει για Linux/gtk-x86
+Το Papyrus σαν Standalone μπορεί να βρεθεί για Linux/gtk-x86
 http://www.papyrusuml.org/home/liblocal/docs/Papyrus/1.12/papyrus-1.12.0/RCPs/Papyrus-1.12.3-linux32.x86.tar.bz2[Papyrus]
 
-Απο το 2008 το Papyrus μεταφερθηκε σαν επιπροσθετο κοματι στην πλατφορμα Eclipse
+Από το 2008 το Papyrus μεταφέρθηκε σαν επιπρόσθετο κομμάτι στην πλατφόρμα Eclipse.
 
-Σαν update σε καποιο ήδη εγγατεστημενο Eclipse:
-* Η πιο βασικη διαδικασια για την εγγατασταση του Papyrus ειναι  η εγγατασταση του Eclipse Modeling Package στην πλατφορμα σας
-* Μεσα απο το Help->Install Modeling Component επιλεγετε το Papyrus
-* Ακολουθηστε τα βηματα της εγγαταστασης και μολις τελειοσει καντε ενα restart το Eclipse και ειναι ετοιμο
+Σαν update σε κάποιο ήδη εγγατεστημένο Eclipse:
+* Η πιο βασική διαδικασία για την εγγατάσταση του Papyrus είναι η εγκατάσταση του Eclipse Modeling Package στην πλατφόρμα σας
+* Μέσα απο το Help->Install Modeling Component επιλεγετε το Papyrus
+* Ακολουθήστε τα βήματα της εγκατάστασης και μόλις τελειώσει κάντε ένα restart, το Eclipse και είναι έτοιμο
 
 Το Papyrus διατίθεται υπό την άδεια Eclipse Public License.
