@@ -1,6 +1,6 @@
 OpenBook
 ========
-:Author:    Κοινότητες ΕΛ/ΛΑΚ: ΟΠΑ, ΕΜΠ, ΕΚΠΑ
+:Author:    Κοινότητες ΕΛ/ΛΑΚ: ΟΠΑ, ΕΜΠ, ΕΚΠΑ, ΤΕΙΜΕΣ
 :Email:     faa@foss.aueb.gr
 :Date:      06-01-2012
 :Revision:  Version 1
@@ -62,30 +62,25 @@ include::PartB-Mysql.asciidoc[]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartB-Scilab.asciidoc[]
 
+[[Octave]]
+Μαθηματικά Εργαλεία - Octave
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+include::PartB-Octave.asciidoc[]
+
 [[Umbrello]]
-Γλώσσες Μοντελοποίησης Λογισμίκου - Umbrello
+Γλώσσες Μοντελοποίησης - Umbrello
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartB-Umbrello.asciidoc[]
 
 [[PapyrusUML]]
-Γλώσσες Μοντελοποίησης Λογισμίκου - PapyrusUML
+Γλώσσες Μοντελοποίησης - PapyrusUML
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartB-PapyrusUML.asciidoc[]
-
-[[Bluefish]]
-Προγραμματισμός - Bluefish
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-include::PartB-Bluefish.asciidoc[]
 
 [[Nmap]]
 Aσφάλεια και Διαχείριση - Nmap
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartB-Nmap.asciidoc[]
-
-[[Octave]]
-Μαθηματικά Εργαλεία - Octave
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-TODO
 
 [[Source]]
 Compiling από Source
