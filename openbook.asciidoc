@@ -43,6 +43,9 @@ Browsing
 ~~~~~~~~
 include::PartA-Browsing.asciidoc[]
 
+Mail Clients
+~~~~~~~~~~~~
+include::PartA-Mail-client.asciidoc[]
 
 Μέρος Β - Εξειδικευμένες Εφαρμογές
 ----------------------------------
@@ -69,18 +72,23 @@ include::PartB-Octave.asciidoc[]
 
 [[Umbrello]]
 Γλώσσες Μοντελοποίησης - Umbrello
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartB-Umbrello.asciidoc[]
 
 [[PapyrusUML]]
 Γλώσσες Μοντελοποίησης - PapyrusUML
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartB-PapyrusUML.asciidoc[]
 
 [[Nmap]]
 Aσφάλεια και Διαχείριση - Nmap
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 include::PartB-Nmap.asciidoc[]
+
+[[Bluefish]]
+Προγραμματισμός - Bluefish
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+include::PartB-Bluefish.asciidoc[]
 
 [[Source]]
 Compiling από Source
